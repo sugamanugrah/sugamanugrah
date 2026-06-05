@@ -1,4 +1,4 @@
-# Hi, I'm Sugam Anugrah 👋
+# Hii, I'm Sugam Anugrah 👋
 
 Computational Physics • Atomic & Subatomic Physics • Quantum Mechanics • Quantum Computing • Scientific Computing • Next.js Development
 
