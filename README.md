@@ -1,6 +1,6 @@
 # Hi, I'm Sugam Anugrah 👋
 
-Computational Physics • Atomic & Subatomic Physics • Quantum Mechanics • Quantum Computing • Scientific Computing • Next.js
+Computational Physics • Atomic & Subatomic Physics • Quantum Mechanics • Quantum Computing • Scientific Computing • Next.js Development
 
 I work on computational physics projects involving numerical methods, atomic and subatomic physics, quantum mechanics, quantum computing, and scientific computing. Alongside research-oriented development, I build modern full-stack web applications using Next.js.
 
