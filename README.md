@@ -1,8 +1,8 @@
 # Hi, I'm Sugam Anugrah 👋
 
-Student of Physics • Next.js Developer
+Computational Physics • Atomic & Subatomic Physics • Quantum Mechanics • Quantum Computing • Scientific Computing • Next.js
 
-I build modern web applications with Next.js and work on computational physics projects ranging from numerical methods and quantum mechanics to scientific computing.
+I work on computational physics projects involving numerical methods, atomic and subatomic physics, quantum mechanics, quantum computing, and scientific computing. Alongside research-oriented development, I build modern full-stack web applications using Next.js.
 
 ---
 
@@ -25,9 +25,9 @@ Areas of interest:
 ### Quantum Computing
 
 Currently learning:
-
 - Quantum Algorithms
 - Qiskit
+- Qrisp
 - Quantum Circuit Design
 - Quantum Simulation
 
@@ -53,7 +53,6 @@ My experience includes:
 
 ### Frontend
 
-- Next.js
 - React
 - TypeScript
 - JavaScript
@@ -63,8 +62,6 @@ My experience includes:
 
 - Node.js
 - Express
-- REST APIs
-- Authentication Systems
 
 ### Database
 
@@ -91,24 +88,17 @@ My experience includes:
 ## 📌 Featured Repositories
 
 ### Web Development
-
-- E-Commerce Applications
-- Trading Platforms
-- Authentication Systems
-- Full-Stack Next.js Projects
+- auth-Next.js
 
 ### Computational Physics
 
-- Quantum Mechanics Simulations
-- Numerical Methods
-- Physics Problem Solvers
-- Scientific Computing Projects
+- numerical-methods
+- computational-quantum-physics
 
 ### Quantum Computing
 
-- Quantum Algorithms
-- Quantum Circuit Experiments
-- Learning Projects
+- qiskit-iqm-explorations
+- qrisp-iqm-explorations
 
 ---
 
